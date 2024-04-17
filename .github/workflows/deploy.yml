@@ -1,6 +1,6 @@
 # This workflow will build a .NET project, test it, then if passing deploy it to AWS using terraform.
 
-name: .NET
+name: deploy
 
 on:
   push:
